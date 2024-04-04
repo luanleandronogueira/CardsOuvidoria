@@ -1,0 +1,96 @@
+@font-face {
+
+    font-family: cool;
+    src: url('../css/font/coolvetica-rg-it') format('truetype'); 
+   
+}
+
+.body, .card, footer {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none; /* ou border: 0; */
+    box-shadow: none; 
+    
+
+
+}
+
+h6, h5, h4, h3, ul, li {
+
+    color: white !important;
+    text-decoration: none;
+
+}
+
+.link {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.cor-padrao {
+
+    background-color: #f00206;
+
+}
+
+.card_color_1 {
+
+    
+    background-color: #0081d4;
+
+}
+
+.card_color_2 {
+
+    background-color: rgba(255, 0, 0, 0.5);
+
+}
+
+.card_color_3 {
+
+    background-color: #fb1185;
+}
+
+.card_color_4 {
+
+    background-color: #f17f00;
+}
+
+.card_color_5 {
+
+    background-color: #1351b4;
+
+}
+
+.card_color_6 {
+
+    background-color: #0c9b98;
+
+}
+
+.card_color_7 {
+
+    background-color: #f3c809;
+
+}
+
+.card_color_8 {
+
+    background-color: #09d8f3;
+
+}
+
+.card_color_9 {
+
+    background-color: #720e9e;
+}
+
+footer {
+
+    margin-top: 10px;
+    background-color: #f00206;
+
+
+}
